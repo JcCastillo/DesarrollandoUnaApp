@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_datos"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jccl.desarrollandounaapp.Datos"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Confirmar"
+        android:textSize="@dimen/confirmarsize"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/tvNombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre"
+        android:textSize="@dimen/textsizeconfirmar"
+        android:layout_marginTop="@dimen/textsize"/>
+
+    <TextView
+        android:id="@+id/tvFecha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fecha"
+        android:textSize="@dimen/textsizeconfirmar"
+        android:layout_marginTop="@dimen/textsize"/>
+
+    <TextView
+        android:id="@+id/tvTelefono"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Telefono"
+        android:textSize="@dimen/textsizeconfirmar"
+        android:layout_marginTop="@dimen/textsize"/>
+
+    <TextView
+        android:id="@+id/tvEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:textSize="@dimen/textsizeconfirmar"
+        android:layout_marginTop="@dimen/textsize"/>
+
+    <TextView
+        android:id="@+id/tvDescripcion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Descripcion"
+        android:textSize="@dimen/textsizeconfirmar"
+        android:layout_marginTop="@dimen/textsize"/>
+
+    <Button
+        android:id="@+id/btnEditarDatos"
+        android:layout_width="@dimen/anchobotoneditar"
+        android:layout_height="@dimen/butonaltura"
+        android:text="@string/EditarDatos"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/margentop"/>
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DesarrollandoUnaApp</string>
+    <string name="HintNombre">Nombre completo</string>
+    <string name="HintTelefono">Telefono</string>
+    <string name="HintEmail">Email</string>
+    <string name="HintDescripcion">Descripción contacto</string>
+    <string name="btSiguiente">Siguiente</string>
+    <string name="Confirmar">Confirmar datos</string>
+    <string name="EditarDatos">Editar datos</string>
+    <string name="FechaNac">Fecha de nacimiento: </string>
+    <string name="Telefono">Telefono: </string>
+    <string name="Descripcion">Descripción:  </string>
+    <string name="Email">Email: </string>
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>}
+    <string name="pdescripcion">descripcion</string>
+</resources>
+

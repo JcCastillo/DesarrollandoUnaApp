@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textsize">16dp</dimen>
+    <dimen name="dateheight">100dp</dimen>
+    <dimen name="butonaltura">60dp</dimen>
+    <dimen name="margentop">210dp</dimen>
+    <dimen name="confirmarsize">30dp</dimen>
+    <dimen name="textsizeconfirmar">22dp</dimen>
+    <dimen name="anchobotoneditar">300dp</dimen>
+</resources>
+
